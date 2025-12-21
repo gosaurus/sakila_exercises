@@ -1,0 +1,1 @@
+EXEC GetCustomerRentalHistory @CustomerID = 1;
