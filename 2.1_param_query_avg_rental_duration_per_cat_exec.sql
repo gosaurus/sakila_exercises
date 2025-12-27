@@ -1,0 +1,1 @@
+EXEC GetTotalRentalRevenueForMonthYear @Month = 8, @Year = 2005; 
